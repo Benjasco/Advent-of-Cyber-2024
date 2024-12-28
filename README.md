@@ -14,7 +14,7 @@ Throughout the event, I engaged in daily tasks that provided real-world experien
 
 Each day focused on specific cybersecurity concepts and tools, allowing me to explore and apply a wide range of techniques to solve complex security challenges.
 
-## Skills Learned
+## Skills Learned and Tools Used
 
 #### **Penetration Testing & Vulnerability Assessment**
 - Identified and exploited vulnerabilities in web applications and networks, gaining experience with penetration testing techniques.  
@@ -44,3 +44,10 @@ Each day focused on specific cybersecurity concepts and tools, allowing me to ex
 - Simulated real-world attacks and created detection rules to improve threat identification and response.  
 - **Tools**: MITRE ATT&CK, Atomic Red Team.
 
+## Some Screenshots
+
+![Splunk](https://github.com/user-attachments/assets/cab3fa9f-8268-4e2c-b62f-1f58b4d472a6)
+
+![Burp Suite](https://github.com/user-attachments/assets/2c06307c-46f3-4c88-ada3-9dc3fc9cfd41)
+
+![exiftool on CLI](https://github.com/user-attachments/assets/104df09f-221e-4acc-b657-112bbae57876)
